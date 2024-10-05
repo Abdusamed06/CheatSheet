@@ -1,0 +1,50 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: gainsboro;
+}
+
+h1, h2 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+table {
+    margin: 0 auto;
+    margin-bottom: 25px;
+    border: 2px solid darkorchid;
+    width: 650px;
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    text-align: start;
+}
+
+h1 {
+    margin-bottom: 25px;
+}
+
+h2 {
+    margin-bottom: 25px;
+    color: rebeccapurple;
+}
+
+td {
+    border-top: 1px solid darkorchid;
+}
+
+thead {
+    background-color: plum;
+    font-weight: bold;
+    text-align: center;
+}
+
+.code {
+    background-color: beige;
+}
